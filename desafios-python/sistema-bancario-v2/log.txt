@@ -1,0 +1,8 @@
+[2024-05-21 17:15:14] Função 'criar_cliente' executada com argumentos ([<PessoaFisica: ('Gesiel', '123')>],) e {}. Retornou None
+[2024-05-21 17:15:19] Função 'criar_conta' executada com argumentos (1, [<PessoaFisica: ('Gesiel', '123')>], [<ContaCorrente: ('0001', '1', 'Gesiel')>]) e {}. Retornou None
+[2024-05-21 17:15:27] Função 'depositar' executada com argumentos ([<PessoaFisica: ('Gesiel', '123')>],) e {}. Retornou None
+[2024-05-21 17:15:30] Função 'exibir_extrato' executada com argumentos ([<PessoaFisica: ('Gesiel', '123')>],) e {}. Retornou None
+[2024-05-21 17:15:40] Função 'sacar' executada com argumentos ([<PessoaFisica: ('Gesiel', '123')>],) e {}. Retornou None
+[2024-05-21 17:15:49] Função 'exibir_extrato' executada com argumentos ([<PessoaFisica: ('Gesiel', '123')>],) e {}. Retornou None
+[2024-05-21 17:16:03] Função 'sacar' executada com argumentos ([<PessoaFisica: ('Gesiel', '123')>],) e {}. Retornou None
+[2024-05-21 17:16:05] Função 'exibir_extrato' executada com argumentos ([<PessoaFisica: ('Gesiel', '123')>],) e {}. Retornou None

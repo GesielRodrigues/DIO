@@ -1,0 +1,5 @@
+azure-ai-documentintelligence==1.0.0b4
+azure-core==1.32.0
+azure-storage-blob==12.23.1
+python-dotenv==1.0.1
+streamlit==1.40.1
